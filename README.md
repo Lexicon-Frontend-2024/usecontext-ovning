@@ -18,7 +18,7 @@ Du ska skapa en liten React-applikation där användaren kan växla mellan olika
 Skapa en fil som heter `ThemeContext.ts` i din `src`-mapp.
 
 #### Steg 3: Skapa Huvudkomponent
-I din `App.js`:
+I din `App.tsx`:
 
 #### Steg 4: Skapa sidor
 Skapa två komponenter: `Home.tsx` och `About.tsx`.
