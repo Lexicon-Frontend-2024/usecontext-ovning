@@ -15,13 +15,13 @@ Du ska skapa en liten React-applikation där användaren kan växla mellan olika
    ```
 
 #### Steg 2: Skapa ThemeContext
-Skapa en fil som heter `ThemeContext.js` i din `src`-mapp.
+Skapa en fil som heter `ThemeContext.ts` i din `src`-mapp.
 
 #### Steg 3: Skapa Huvudkomponent
 I din `App.js`:
 
 #### Steg 4: Skapa sidor
-Skapa två komponenter: `Home.js` och `About.js`.
+Skapa två komponenter: `Home.tsx` och `About.tsx`.
 
 #### Steg 5: Testa din app
 Nu kan du testa din applikation! Navigera till olika sidor med hjälp av React Router, och byt emoji-tema genom att trycka på knapparna. Du ska se att temat uppdateras globalt i hela applikationen när du byter det.
